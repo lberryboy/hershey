@@ -1,6 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Poppins:300); 
 body { 
-    background: linear-gradient(90deg, rgb(41, 87, 214) 0%, rgb(39, 6, 138) 50%); 
+    background: linear-gradient(90deg, rgb(250, 24, 7) 0%, rgb(255, 255, 255) 50%); 
     font-family: "Poppins"; 
     display: flex; 
     justify-content: center; 
@@ -42,7 +42,7 @@ body {
     cursor: pointer; 
 } 
 .form button:hover,.form button:active,.form button:focus { 
-    background: #2957d6; 
+    background: #910601; 
 } 
 .form .message { 
     margin: 15px 0 0; 
@@ -50,6 +50,6 @@ body {
     font-size: 12px; 
 } 
 .form .message a { 
-    color: #3324be; 
+    color: #d10404; 
     text-decoration: none; 
 } 
